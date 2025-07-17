@@ -1,4 +1,5 @@
 Credit Risk Analysis Dashboard – UCI Credit Card Dataset
+
 📌 Project Overview
 This project focuses on analyzing credit risk using the UCI Credit Card Default dataset. The objective is to extract actionable insights through exploratory analysis, segmentation, and predictive modeling, presented in an interactive Power BI dashboard.
 
